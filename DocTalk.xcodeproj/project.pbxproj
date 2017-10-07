@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		C31197E41F88CE1A00F320D4 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C31197E31F88CE1A00F320D4 /* NetworkService.swift */; };
-		C31197E61F88D30F00F320D4 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C31197E51F88D30F00F320D4 /* User.swift */; };
 		C35EDE941F88CA5500348389 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35EDE931F88CA5500348389 /* AppDelegate.swift */; };
 		C35EDE961F88CA5500348389 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35EDE951F88CA5500348389 /* ViewController.swift */; };
 		C35EDE991F88CA5500348389 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C35EDE971F88CA5500348389 /* Main.storyboard */; };
@@ -18,7 +17,6 @@
 
 /* Begin PBXFileReference section */
 		C31197E31F88CE1A00F320D4 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
-		C31197E51F88D30F00F320D4 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		C35EDE901F88CA5500348389 /* DocTalk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DocTalk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C35EDE931F88CA5500348389 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C35EDE951F88CA5500348389 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 				C35EDE9C1F88CA5500348389 /* LaunchScreen.storyboard */,
 				C35EDE9F1F88CA5500348389 /* Info.plist */,
 				C31197E31F88CE1A00F320D4 /* NetworkService.swift */,
-				C31197E51F88D30F00F320D4 /* User.swift */,
 			);
 			path = DocTalk;
 			sourceTree = "<group>";
@@ -142,7 +139,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C31197E61F88D30F00F320D4 /* User.swift in Sources */,
 				C35EDE961F88CA5500348389 /* ViewController.swift in Sources */,
 				C31197E41F88CE1A00F320D4 /* NetworkService.swift in Sources */,
 				C35EDE941F88CA5500348389 /* AppDelegate.swift in Sources */,
